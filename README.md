@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gregkk66
 - 👀 I’m interested in Cybersecurity, Software Development
 - 🌱 I’m currently studying Cybersecurity
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: email gregkallianiotis@gmail.com
 
 <!---
