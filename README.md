@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gregkk66
-- 👀 I’m interested in Cybersecurity, Software Development
+- 👀 I’m interested in Cybersecurity, Software Development, Penetration testing
 - 🌱 I’m currently studying Cybersecurity
 - 📫 How to reach me: email gregkallianiotis@gmail.com
 
